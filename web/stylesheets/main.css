@@ -1,5 +1,6 @@
 .jumbotron {
   background-image:  url("bg.png");
+  background-size:cover;
   color: black;
   padding-bottom: 80px;
 }
